@@ -148,3 +148,11 @@ body {
     
 }
 
+@media (max-width: 460px) {
+    .cabecalho__menu {
+        gap: 43px;
+    }
+
+}
+
+
